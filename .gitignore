@@ -35,13 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
-/src/main/resources/application.properties
-/build.gradle
 /gradle/wrapper/gradle-wrapper.jar
 /gradle/wrapper/gradle-wrapper.properties
 /gradlew
 /gradlew.bat
 /settings.gradle
-/src/main/java/com/whethere/WhethereBackendApplication.java
-/src/test/java/com/whethere/WhethereBackendApplicationTests.java
 /src/main/resources/application.yml
