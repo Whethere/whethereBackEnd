@@ -1,6 +1,5 @@
 ---
-name: Custom issue template
-about: "\bgithub issue 등록 템플릿"
+name: Custom issue template about: "\bgithub issue 등록 템플릿"
 title: ''
 labels: ''
 assignees: ''
